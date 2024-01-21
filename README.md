@@ -20,13 +20,14 @@ Additional modules (must be in the same directory): AddModule.py, EditModule.py,
 
 1) Install the required modules
 ```bash
-pip install tkinter customtkinter
+pip install tkinter
+pip install customtkinter
 ```
 2) Place all the Python files (main script and additional modules) in the same directory.
 
 3) Run the main script:
 ```bash
-python main_script.py  # Replace "main_script.py" with the actual filename
+python PHONEBOOK APPLICATION.py  
 ```
 
 ## Usage
